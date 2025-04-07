@@ -1,0 +1,7 @@
+cd first-repo
+notepad demo.txt
+git status
+git add demo.txt
+git commit -m "Updated demo.txt"
+git push
+
